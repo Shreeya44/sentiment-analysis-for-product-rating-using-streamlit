@@ -1,1 +1,1 @@
-# sentiment-analysis-for-product-rating-using-streamlit
+# Sentiment analysis for product rating using streamlit
